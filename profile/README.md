@@ -1,3 +1,6 @@
+피그마 링크(수정 가능)
+https://www.figma.com/team_invite/redeem/n7mWkYM2dJa42akd48rCX7
+
 코드 입력시 필요한 사항
 
 1. 레포지토리의 이름 유형 => 팀 이름 포함 + '-' + web 또는 server (ex. pop-web)
